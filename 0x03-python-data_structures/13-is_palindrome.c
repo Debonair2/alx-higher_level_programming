@@ -118,12 +118,5 @@ int is_palindrome(listint_t **head)
 ~
 ~
 ~
-~
-~
-~
-~
-~
-~
-~
 "13-is_palindrome.c" [New File]                                                     0,0-1         All
 
